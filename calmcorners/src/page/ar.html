@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sound Safari AR</title>
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+    <script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.7.7/aframe/build/aframe-ar.js"></script>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        #ar-scene {
+            width: 100vw;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body>
+	<a-scene embedded arjs="sourceType: webcam; debugUIEnabled: false;" id="stuff">
+		<!-- AR content -->
+		<a-entity id="ar-content" position="0 0 -5">
+			<a-image src="../img/whale.png" width="2" height="2"></a-image>
+		</a-entity>
+		
+		<!-- Camera entity -->
+		<a-entity camera></a-entity>
+	</a-scene>
+
+	<!-- <div id="message">Please rotate your device to landscape mode.</div> -->
+
+	<script>
+		// Wait for the scene to load
+		document.querySelector('a-scene').addEventListener('loaded', function () {
+			// Get reference to the AR content entity
+			var arContent = document.querySelector('#ar-content');
+			
+			// Get reference to the camera entity
+			var camera = document.querySelector('[camera]');
+	
+			// Initial distance from camera
+			var distance = 5;
+	
+			// Variables to store initial alpha, beta, gamma values
+			var initialAlpha = null;
+			var initialBeta = null;
+			var initialGamma = null;
+	
+			// Listen for device orientation changes
+			window.addEventListener('deviceorientation', function(event) {
+				if (initialAlpha === null) {
+					// Store initial orientation
+					initialAlpha = event.alpha;
+					initialBeta = event.beta;
+					initialGamma = event.gamma;
+				}
+	
+				// Calculate offsets from initial orientation
+				var alphaOffset = event.alpha - initialAlpha;
+				var betaOffset = event.beta - initialBeta;
+				var gammaOffset = event.gamma - initialGamma;
+	
+				// Adjust position of AR content based on orientation
+				var positionX = distance * Math.sin(alphaOffset * Math.PI / 180);
+				var positionY = distance * Math.sin(gammaOffset * Math.PI / 180); // Inverted gamma for correct direction
+	
+				// Update position of AR content relative to camera
+				arContent.setAttribute('position', `${positionX} ${positionY} -${distance}`);
+			});
+		});
+	</script>
+	
+	
+
+</body>
+</html>
