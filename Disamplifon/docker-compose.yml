@@ -1,0 +1,23 @@
+services:
+    nginx:
+        container_name: nginx
+        build: ./nginx
+        ports:
+            - "1024:80"
+        volumes:
+            - static:/home/static
+        networks:
+            - transcendence-network
+        restart: always
+
+volumes:
+    static:
+        driver: local
+        driver_opts:
+            type: none
+            o: bind
+            device: ./src/static
+
+networks:
+    transcendence-network:
+        driver: bridge
