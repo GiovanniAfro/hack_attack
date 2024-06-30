@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>mapshh</title>
+  
+  </head>
+  <body>
+
+  <!-- Wallpaper content here -->
+  <div id="wallpaper">
+    <div class="wallpaper-content" class="overlay-container">
+        <h1>mapshh</h1>
+        <p>la città in silenzio</p>
+    </div>
+  </div>
+  </div>
+    <div class="navbar start">
+      <div class="logo-container">
+        <a href="/" class="logo-link">
+            <img src="Preview.png" alt="Logo description" class="logo hidden" id="logo">
+        </a>
+      </div>
+      <div class="navbar-buttons">
+      <button id="startMicrophoneButton" class="button">Start Microphone</button>
+      <button id="stopMicrophoneButton" class="button" disabled>Stop Microphone</button>
+    </div>
+  </div>
+
+  <div id="mainContent">
+    <div id="imageContainer" class="hidden">
+      <img src="map.png" alt="map" class="mapImage">
+      <div id="markerContainer"></div>
+    </div>
+
+    <div class="form-container hidden">
+
+
+
+      <div class="container">
+        <div class="column1">
+            <h2>Add Marker</h2>
+          <form id="addMarkerForm">
+            <label for="latitude">Latitude:</label>
+            <input type="number" id="latitude" class="form-item"name="latitude" step="any" required>
+            <label for="longitude">Longitude:</label>
+            <input type="number" id="longitude" class="form-item" name="longitude" step="any" required>
+            <input type="submit" value="Add Marker" class="form-item">
+          </form>
+        </div>
+        <div class="column2">
+
+          <ul id="loudNoiseList" class="hidden"></ul>
+        </div>
+    </div>
+
+
+
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
