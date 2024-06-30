@@ -16,3 +16,7 @@ Clona questo repository sul tuo sistema locale:
    cd hack_attack/thenoisycheckers
    docker-compose up
    ```
+
+L'indirizzo per visualizzare il progetto
+
+[http://localhost:8888](http://localhost:8888)
