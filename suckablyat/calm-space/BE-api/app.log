@@ -1,0 +1,1046 @@
+2024-06-30 09:14:38,230 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-06-30 09:14:38,230 - werkzeug - INFO -  * Running on http://172.20.0.2:5000/ (Press CTRL+C to quit)
+2024-06-30 09:14:38,232 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 09:15:18,921 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 09:15:19,004 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 09:15:39,410 - app - ERROR - No selected file
+2024-06-30 09:15:39,411 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 09:15:39] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 09:15:56,431 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 09:15:56,497 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 09:17:05,199 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 09:17:05,258 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 09:17:13,261 - app - ERROR - No selected file: b''
+2024-06-30 09:17:13,298 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 09:17:13] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 09:17:28,270 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 09:17:28,342 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 09:17:30,694 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 09:17:30,759 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 09:17:32,262 - app - ERROR - No selected file: 6
+2024-06-30 09:17:32,285 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 09:17:32] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 09:17:35,328 - app - ERROR - No selected file: 6
+2024-06-30 09:17:35,348 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 09:17:35] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 09:17:47,356 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 09:17:47,438 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 09:19:29,747 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 09:19:29,823 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 09:19:41,382 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 09:19:41,383 - app - DEBUG - Received audio data length: 0
+2024-06-30 09:19:41,383 - app - DEBUG - Received audio data sample: b''
+2024-06-30 09:19:41,407 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 09:19:41] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 09:20:07,112 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 09:20:07,193 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 09:23:46,927 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 09:23:46,927 - app - DEBUG - Received audio data length: 0
+2024-06-30 09:23:46,927 - app - DEBUG - Received audio data sample: b''
+2024-06-30 09:23:46,957 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 09:23:46] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 10:07:44,501 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:07:44,501 - app - DEBUG - Received audio data length: 0
+2024-06-30 10:07:44,502 - app - DEBUG - Received audio data sample: b''
+2024-06-30 10:07:44,525 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:07:44] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 10:07:45,552 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:07:45,553 - app - DEBUG - Received audio data length: 0
+2024-06-30 10:07:45,554 - app - DEBUG - Received audio data sample: b''
+2024-06-30 10:07:45,579 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:07:45] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 10:09:13,597 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:09:13,597 - app - DEBUG - Received audio data length: 0
+2024-06-30 10:09:13,597 - app - DEBUG - Received audio data sample: b''
+2024-06-30 10:09:13,627 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:09:13] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 10:14:48,545 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:14:48,545 - app - DEBUG - Received audio data length: 0
+2024-06-30 10:14:48,546 - app - DEBUG - Received audio data sample: b''
+2024-06-30 10:14:48,573 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:14:48] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 10:17:12,489 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:17:12,489 - app - DEBUG - Received audio data length: 0
+2024-06-30 10:17:12,490 - app - DEBUG - Received audio data sample: b''
+2024-06-30 10:17:12,521 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:17:12] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 10:24:11,720 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:24:11,720 - app - DEBUG - Received audio data length: 52962
+2024-06-30 10:24:11,720 - app - DEBUG - Received audio data sample: b'RIFF\xda\xce\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xb6\xce\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:24:11,749 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:24:11] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 10:24:27,469 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:24:27,469 - app - DEBUG - Received audio data length: 84714
+2024-06-30 10:24:27,469 - app - DEBUG - Received audio data sample: b'RIFF\xe2J\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xbeJ\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:24:27,498 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:24:27] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 10:25:36,167 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 10:25:36,244 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 10:25:45,135 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 10:25:45,194 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 10:25:54,227 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:25:54,228 - app - DEBUG - Received audio data length: 74132
+2024-06-30 10:25:54,228 - app - DEBUG - Received audio data sample: b'RIFF\x8c!\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datah!\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:25:54,281 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:25:54] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 10:26:21,955 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 10:26:22,051 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 10:26:31,131 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 10:26:31,189 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 10:26:35,241 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:26:35,241 - app - DEBUG - Received audio data length: 90006
+2024-06-30 10:26:35,242 - app - DEBUG - Received audio data sample: b'RIFF\x8e_\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00dataj_\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:26:35,280 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:26:35] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 10:26:55,511 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 10:26:55,599 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 10:27:04,028 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:27:04,028 - app - DEBUG - Received audio data length: 52962
+2024-06-30 10:27:04,028 - app - DEBUG - Received audio data sample: b'RIFF\xda\xce\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xb6\xce\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:27:04,028 - app - DEBUG - MAMAMAMAMAM
+2024-06-30 10:27:04,061 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:27:04] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 10:27:13,683 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:27:13,683 - app - DEBUG - Received audio data length: 95298
+2024-06-30 10:27:13,684 - app - DEBUG - Received audio data sample: b'RIFF:t\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x16t\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:27:13,684 - app - DEBUG - MAMAMAMAMAM
+2024-06-30 10:27:13,710 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:27:13] "[35m[1mPOST /process-data HTTP/1.1[0m" 500 -
+2024-06-30 10:42:01,897 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 10:42:02,005 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 10:47:00,608 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 10:47:00,673 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 10:47:06,346 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:47:06,346 - app - DEBUG - Received audio data length: 74132
+2024-06-30 10:47:06,346 - app - DEBUG - Received audio data sample: b'RIFF\x8c!\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datah!\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:47:06,346 - app - DEBUG - hellooooo
+2024-06-30 10:47:06,357 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:47:06] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 10:47:48,786 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 10:47:48,855 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 10:47:51,664 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:47:51,664 - app - DEBUG - Received audio data length: 137636
+2024-06-30 10:47:51,664 - app - DEBUG - Received audio data sample: b'RIFF\x9c\x19\x02\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datax\x19\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:47:51,668 - app - DEBUG - hellooooo-199.94476423047828
+2024-06-30 10:47:51,669 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:47:51] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 10:48:09,084 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:48:09,085 - app - DEBUG - Received audio data length: 169386
+2024-06-30 10:48:09,085 - app - DEBUG - Received audio data sample: b'RIFF\xa2\x95\x02\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data~\x95\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:48:09,088 - app - DEBUG - hellooooo-199.98110332935707
+2024-06-30 10:48:09,089 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:48:09] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 10:48:46,538 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:48:46,538 - app - DEBUG - Received audio data length: 79424
+2024-06-30 10:48:46,539 - app - DEBUG - Received audio data sample: b'RIFF86\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x146\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:48:46,540 - app - DEBUG - hellooooo-199.94960947341877
+2024-06-30 10:48:46,541 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:48:46] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 10:48:52,873 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:48:52,873 - app - DEBUG - Received audio data length: 153512
+2024-06-30 10:48:52,873 - app - DEBUG - Received audio data sample: b'RIFF\xa0W\x02\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data|W\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:48:52,876 - app - DEBUG - hellooooo-190.05655902203307
+2024-06-30 10:48:52,877 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:48:52] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 10:48:57,603 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:48:57,603 - app - DEBUG - Received audio data length: 105882
+2024-06-30 10:48:57,603 - app - DEBUG - Received audio data sample: b'RIFF\x92\x9d\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datan\x9d\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:48:57,606 - app - DEBUG - hellooooo-188.68081407429088
+2024-06-30 10:48:57,607 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:48:57] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 10:49:40,268 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:49:40,268 - app - DEBUG - Received audio data length: 116466
+2024-06-30 10:49:40,268 - app - DEBUG - Received audio data sample: b'RIFF\xea\xc6\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xc6\xc6\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:49:40,270 - app - DEBUG - hellooooo-195.74650839186623
+2024-06-30 10:49:40,271 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:49:40] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 10:49:52,515 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:49:52,515 - app - DEBUG - Received audio data length: 238182
+2024-06-30 10:49:52,516 - app - DEBUG - Received audio data sample: b'RIFF^\xa2\x03\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data:\xa2\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:49:52,520 - app - DEBUG - hellooooo-200.0
+2024-06-30 10:49:52,521 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:49:52] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 10:50:50,955 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:50:50,955 - app - DEBUG - Received audio data length: 105882
+2024-06-30 10:50:50,955 - app - DEBUG - Received audio data sample: b'RIFF\x92\x9d\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datan\x9d\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:50:50,957 - app - DEBUG - hellooooo-185.03751015696747
+2024-06-30 10:50:50,958 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:50:50] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 10:50:58,051 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 10:50:58,052 - app - DEBUG - Received audio data length: 142928
+2024-06-30 10:50:58,052 - app - DEBUG - Received audio data sample: b'RIFFH.\x02\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data$.\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 10:50:58,055 - app - DEBUG - hellooooo-200.0
+2024-06-30 10:50:58,056 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 10:50:58] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 12:18:58,811 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 12:18:58,811 - app - DEBUG - Received audio data length: 37088
+2024-06-30 12:18:58,811 - app - DEBUG - Received audio data sample: b'RIFF\xd8\x90\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xb4\x90\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 12:18:58,813 - app - DEBUG - hellooooo-200.0
+2024-06-30 12:18:58,814 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 12:18:58] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 12:19:07,906 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 12:19:07,906 - app - DEBUG - Received audio data length: 164094
+2024-06-30 12:19:07,906 - app - DEBUG - Received audio data sample: b'RIFF\xf6\x80\x02\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xd2\x80\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 12:19:07,908 - app - DEBUG - hellooooo-177.2167022248325
+2024-06-30 12:19:07,909 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 12:19:07] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 12:19:15,314 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 12:19:15,314 - app - DEBUG - Received audio data length: 211722
+2024-06-30 12:19:15,314 - app - DEBUG - Received audio data sample: b'RIFF\x02;\x03\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xde:\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 12:19:15,318 - app - DEBUG - hellooooo-193.295477092536
+2024-06-30 12:19:15,319 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 12:19:15] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 12:19:27,260 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 12:19:27,261 - app - DEBUG - Received audio data length: 132344
+2024-06-30 12:19:27,261 - app - DEBUG - Received audio data sample: b'RIFF\xf0\x04\x02\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xcc\x04\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 12:19:27,263 - app - DEBUG - hellooooo-189.3877551019947
+2024-06-30 12:19:27,264 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 12:19:27] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 12:19:46,629 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 12:19:46,630 - app - DEBUG - Received audio data length: 264644
+2024-06-30 12:19:46,632 - app - DEBUG - Received audio data sample: b'RIFF\xbc\t\x04\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x98\t\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 12:19:46,639 - app - DEBUG - hellooooo-200.0
+2024-06-30 12:19:46,641 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 12:19:46] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 12:19:56,975 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 12:19:56,975 - app - DEBUG - Received audio data length: 74132
+2024-06-30 12:19:56,975 - app - DEBUG - Received audio data sample: b'RIFF\x8c!\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datah!\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 12:19:56,977 - app - DEBUG - hellooooo-200.0
+2024-06-30 12:19:56,978 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 12:19:56] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 12:20:15,038 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 12:20:15,038 - app - DEBUG - Received audio data length: 174678
+2024-06-30 12:20:15,038 - app - DEBUG - Received audio data sample: b'RIFFN\xaa\x02\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data*\xaa\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 12:20:15,041 - app - DEBUG - hellooooo-173.3293631250488
+2024-06-30 12:20:15,042 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 12:20:15] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 12:45:16,545 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 12:45:16,636 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 12:45:22,611 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 12:45:22,677 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 12:45:51,104 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 12:45:51,163 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 12:45:56,761 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 12:45:56,840 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 12:46:46,246 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 12:46:46,330 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 12:48:18,643 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 12:48:18,718 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 12:49:20,674 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 12:49:20,767 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 12:49:48,118 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 12:49:48,197 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:02:47,353 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:02:47,430 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:02:56,374 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:02:56,434 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:03:27,390 - app - DEBUG - hellooooo-188.66503866498945
+2024-06-30 13:03:27,391 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 13:03:27] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:03:54,839 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:03:54,915 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:04:27,033 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:04:27,116 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:04:38,687 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:04:38,768 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:04:47,985 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:04:48,061 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:04:53,229 - app - DEBUG - Calculated SNR: inf dB
+2024-06-30 13:04:53,230 - werkzeug - INFO - 172.20.0.3 - - [30/Jun/2024 13:04:53] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:06:44,926 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-06-30 13:06:44,931 - werkzeug - INFO -  * Running on http://172.21.0.2:5000/ (Press CTRL+C to quit)
+2024-06-30 13:06:44,933 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:06:53,756 - app - DEBUG - Calculated SNR: inf dB
+2024-06-30 13:06:53,758 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:06:53] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:07:04,586 - app - DEBUG - Calculated SNR: inf dB
+2024-06-30 13:07:04,587 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:07:04] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:08:26,862 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:08:26,951 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:09:36,583 - app - WARNING - Noise power is zero, cannot calculate SNR
+2024-06-30 13:09:36,583 - app - DEBUG - Calculated SNR: inf dB
+2024-06-30 13:09:36,585 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:09:36] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:09:58,080 - app - WARNING - Noise power is zero, cannot calculate SNR
+2024-06-30 13:09:58,080 - app - DEBUG - Calculated SNR: inf dB
+2024-06-30 13:09:58,081 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:09:58] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:12:06,081 - app - WARNING - Noise power is zero, cannot calculate SNR
+2024-06-30 13:12:06,081 - app - DEBUG - Calculated SNR: inf dB
+2024-06-30 13:12:06,082 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:12:06] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:13:11,057 - app - WARNING - Noise power is zero, cannot calculate SNR
+2024-06-30 13:13:11,057 - app - DEBUG - Calculated SNR: inf dB
+2024-06-30 13:13:11,058 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:13:11] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:19:18,935 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:19:18,992 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:24:28,970 - app - WARNING - Noise segment contains only zero values, choosing different segment
+2024-06-30 13:24:28,971 - app - DEBUG - Calculated SNR: -1.1950014963236752 dB
+2024-06-30 13:24:28,972 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:24:28] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:33:59,542 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:33:59,620 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:34:04,908 - app - DEBUG - hellooooo-186.96537678202077
+2024-06-30 13:34:04,909 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:34:04] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:35:56,467 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:35:56,532 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:36:32,396 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:36:32,463 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:36:45,701 - app - DEBUG - hellooooo0
+2024-06-30 13:36:45,703 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:36:45] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:36:59,414 - app - DEBUG - hellooooo0
+2024-06-30 13:36:59,415 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:36:59] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:37:41,799 - app - DEBUG - hellooooo0
+2024-06-30 13:37:41,800 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:37:41] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:37:51,294 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:37:51,379 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:37:59,449 - app - DEBUG - hellooooo0
+2024-06-30 13:37:59,450 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:37:59] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:38:24,566 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:38:24,649 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:38:32,305 - app - DEBUG - hellooooo0
+2024-06-30 13:38:32,306 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:38:32] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:39:05,526 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:39:05,592 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:39:13,197 - app - DEBUG - hellooooo0
+2024-06-30 13:39:13,199 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:39:13] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:39:27,304 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:39:27,388 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:39:37,829 - app - DEBUG - hellooooo-198.65204128460422
+2024-06-30 13:39:37,830 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:39:37] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:41:02,976 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:41:03,036 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:41:07,003 - app - DEBUG - hellooooo-188.93927941542185
+2024-06-30 13:41:07,004 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:41:07] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:41:28,735 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:41:28,797 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:41:32,446 - app - DEBUG - hellooooo-199.98685442923568
+2024-06-30 13:41:32,448 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:41:32] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:41:41,023 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:41:41,088 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:41:42,796 - app - DEBUG - hellooooo-199.97900350641436
+2024-06-30 13:41:42,797 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:41:42] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:42:03,943 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:42:04,012 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:42:12,427 - app - DEBUG - hellooooo-197.56863794907886
+2024-06-30 13:42:12,429 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:42:12] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:42:22,786 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:42:22,852 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:42:42,761 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:42:42,825 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:42:45,553 - app - DEBUG - hello here you-199.99527577654422
+2024-06-30 13:42:45,553 - app - DEBUG - hello here you-0.0047242234557813845
+2024-06-30 13:42:45,553 - app - DEBUG - hellooooo0
+2024-06-30 13:42:45,554 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:42:45] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:43:08,549 - app - DEBUG - hello here you-199.9901408219268
+2024-06-30 13:43:08,549 - app - DEBUG - hello here you-0.00985917807321357
+2024-06-30 13:43:08,549 - app - DEBUG - hellooooo0
+2024-06-30 13:43:08,550 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:43:08] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:44:35,785 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:44:35,865 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:44:48,670 - app - DEBUG - hellooooo0.006224781299005145
+2024-06-30 13:44:48,672 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:44:48] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:44:59,190 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:44:59,275 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:45:05,649 - app - DEBUG - hellooooo0.15009340344957423
+2024-06-30 13:45:05,650 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:45:05] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:45:13,640 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:45:13,732 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:45:17,834 - app - DEBUG - hellooooo0.23305863209381528
+2024-06-30 13:45:17,836 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:45:17] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:45:36,055 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:45:36,116 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:45:40,034 - app - DEBUG - hellooooo3.829726709353224
+2024-06-30 13:45:40,036 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:45:40] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:45:50,205 - app - DEBUG - hellooooo0.0
+2024-06-30 13:45:50,206 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:45:50] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:45:57,166 - app - DEBUG - hellooooo0.008062484253002822
+2024-06-30 13:45:57,167 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:45:57] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:46:06,320 - app - DEBUG - hellooooo0.0
+2024-06-30 13:46:06,321 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:46:06] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:46:11,950 - app - DEBUG - hellooooo10.325444674450202
+2024-06-30 13:46:11,952 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:46:11] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:46:46,692 - app - DEBUG - hellooooo1.3909994462307889
+2024-06-30 13:46:46,693 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:46:46] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:46:59,664 - app - DEBUG - hellooooo10.741352216942383
+2024-06-30 13:46:59,665 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:46:59] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:47:32,817 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:47:32,896 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:47:39,702 - app - DEBUG - hellooooo-179.06414607059813
+2024-06-30 13:47:39,704 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:47:39] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:50:18,909 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:50:18,977 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:50:34,110 - app - DEBUG - hellooooo-179.33894113954034
+2024-06-30 13:50:34,112 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:50:34] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:50:51,355 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:50:51,423 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:50:55,022 - app - DEBUG - hellooooo-199.9767428338856
+2024-06-30 13:50:55,024 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:50:55] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:51:00,282 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:51:00,372 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:51:05,116 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:51:05,208 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:51:09,321 - app - DEBUG - hellooooo-200.0
+2024-06-30 13:51:09,322 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:51:09] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:51:17,489 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:51:17,582 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:51:19,617 - app - DEBUG - hellooooo-199.96907800931083
+2024-06-30 13:51:19,619 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:51:19] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:51:29,897 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:51:29,977 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:51:32,565 - app - DEBUG - hellooooo-199.95086830816888
+2024-06-30 13:51:32,566 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:51:32] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:51:40,224 - app - DEBUG - hellooooo-199.97165465926525
+2024-06-30 13:51:40,225 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:51:40] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:51:46,296 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:51:46,383 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:51:49,632 - app - DEBUG - hellooooo-199.97699525116246
+2024-06-30 13:51:49,633 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:51:49] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:52:05,116 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:52:05,187 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:52:09,141 - app - DEBUG - hellooooo-199.89081823335457
+2024-06-30 13:52:09,143 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:52:09] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:52:19,300 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:52:19,374 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 13:52:23,101 - app - DEBUG - hellooooo0.10967593724808467
+2024-06-30 13:52:23,103 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:52:23] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:52:27,927 - app - DEBUG - hellooooo4.519453728765787
+2024-06-30 13:52:27,928 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:52:27] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:52:32,741 - app - DEBUG - hellooooo10.941301523609601
+2024-06-30 13:52:32,742 - werkzeug - INFO - 172.21.0.3 - - [30/Jun/2024 13:52:32] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 13:52:43,104 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 13:52:43,171 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 14:19:53,476 - werkzeug - WARNING -  * Running on all addresses.
+WARNING: This is a development server. Do not use it in a production deployment.
+2024-06-30 14:19:53,476 - werkzeug - INFO -  * Running on http://172.22.0.2:5000/ (Press CTRL+C to quit)
+2024-06-30 14:19:53,478 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:32:14,742 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 16:32:15,470 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:32:37,513 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 16:32:37,598 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:34:24,095 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-06-30 16:34:24,095 - werkzeug - INFO -  * Running on http://172.23.0.2:5000/ (Press CTRL+C to quit)
+2024-06-30 16:34:24,097 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:37:03,981 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 16:37:04,046 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:37:18,448 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 16:37:18,498 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:41:22,132 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 16:41:22,133 - app - DEBUG - Received audio data length: 31794
+2024-06-30 16:41:22,133 - app - DEBUG - Received audio data sample: b'RIFF*|\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x06|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 16:41:22,135 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 16:41:22] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 16:41:36,667 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 16:41:36,668 - app - DEBUG - Received audio data length: 111174
+2024-06-30 16:41:36,668 - app - DEBUG - Received audio data sample: b'RIFF>\xb2\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x1a\xb2\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 16:41:36,675 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 16:41:36] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 16:41:54,494 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 16:41:54,560 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 16:41:58,999 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 16:41:58,999 - app - DEBUG - Received audio data length: 111174
+2024-06-30 16:41:58,999 - app - DEBUG - Received audio data sample: b'RIFF>\xb2\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x1a\xb2\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 16:41:59,001 - app - DEBUG - hellooooo6.039773238575682
+2024-06-30 16:41:59,002 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 16:41:59] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 16:48:12,805 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 16:48:12,805 - app - DEBUG - Received audio data length: 5334
+2024-06-30 16:48:12,805 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 16:48:12,805 - app - DEBUG - hellooooo0.453686200380029
+2024-06-30 16:48:12,806 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 16:48:12] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 16:48:14,087 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 16:48:14,087 - app - DEBUG - Received audio data length: 21210
+2024-06-30 16:48:14,087 - app - DEBUG - Received audio data sample: b'RIFF\xd2R\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaeR\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 16:48:14,088 - app - DEBUG - hellooooo0.05039528804079888
+2024-06-30 16:48:14,089 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 16:48:14] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 16:48:14,252 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 16:48:14,252 - app - DEBUG - Received audio data length: 5334
+2024-06-30 16:48:14,252 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 16:48:14,253 - app - DEBUG - hellooooo0.6049149338400639
+2024-06-30 16:48:14,254 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 16:48:14] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 16:48:14,429 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 16:48:14,429 - app - DEBUG - Received audio data length: 5334
+2024-06-30 16:48:14,429 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 16:48:14,430 - app - DEBUG - hellooooo0.10081915564001064
+2024-06-30 16:48:14,431 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 16:48:14] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 16:48:14,642 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 16:48:14,643 - app - DEBUG - Received audio data length: 5334
+2024-06-30 16:48:14,643 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 16:48:14,643 - app - DEBUG - hellooooo0.7057340894800557
+2024-06-30 16:48:14,644 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 16:48:14] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 16:48:14,810 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 16:48:14,810 - app - DEBUG - Received audio data length: 5334
+2024-06-30 16:48:14,811 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 16:48:14,811 - app - DEBUG - hellooooo0.0
+2024-06-30 16:48:14,812 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 16:48:14] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 16:48:23,847 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 16:48:23,847 - app - DEBUG - Received audio data length: 21210
+2024-06-30 16:48:23,847 - app - DEBUG - Received audio data sample: b'RIFF\xd2R\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaeR\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 16:48:23,848 - app - DEBUG - hellooooo0.0
+2024-06-30 16:48:23,849 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 16:48:23] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 16:53:03,660 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 16:53:03,660 - app - DEBUG - Received audio data length: 52962
+2024-06-30 16:53:03,660 - app - DEBUG - Received audio data sample: b'RIFF\xda\xce\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xb6\xce\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 16:53:03,661 - app - DEBUG - hellooooo0.0
+2024-06-30 16:53:03,662 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 16:53:03] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 16:55:46,819 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 16:55:46,819 - app - DEBUG - Received audio data length: 111174
+2024-06-30 16:55:46,819 - app - DEBUG - Received audio data sample: b'RIFF>\xb2\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x1a\xb2\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 16:55:46,821 - app - DEBUG - hellooooo0.0
+2024-06-30 16:55:46,822 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 16:55:46] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:00:17,472 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:00:17,472 - app - DEBUG - Received audio data length: 624500
+2024-06-30 17:00:17,473 - app - DEBUG - Received audio data sample: b'RIFFl\x87\t\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00dataH\x87\t\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:00:17,483 - app - DEBUG - hellooooo0.23956852044123403
+2024-06-30 17:00:17,484 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:00:17] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:09:06,239 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:09:06,239 - app - DEBUG - Received audio data length: 31794
+2024-06-30 17:09:06,239 - app - DEBUG - Received audio data sample: b'RIFF*|\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x06|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:09:06,240 - app - DEBUG - hellooooo0.0
+2024-06-30 17:09:06,241 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:09:06] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:12:25,407 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:12:25,407 - app - DEBUG - Received audio data length: 10626
+2024-06-30 17:12:25,407 - app - DEBUG - Received audio data sample: b'RIFFz)\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00dataV)\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:12:25,408 - app - DEBUG - hellooooo0.0
+2024-06-30 17:12:25,409 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:12:25] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:12:29,031 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:12:29,031 - app - DEBUG - Received audio data length: 5334
+2024-06-30 17:12:29,031 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:12:29,032 - app - DEBUG - hellooooo0.0
+2024-06-30 17:12:29,033 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:12:29] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:13:31,623 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:13:31,623 - app - DEBUG - Received audio data length: 5334
+2024-06-30 17:13:31,623 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:13:31,624 - app - DEBUG - hellooooo0.0
+2024-06-30 17:13:31,625 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:13:31] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:13:37,819 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:13:37,819 - app - DEBUG - Received audio data length: 5334
+2024-06-30 17:13:37,819 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:13:37,820 - app - DEBUG - hellooooo0.0
+2024-06-30 17:13:37,821 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:13:37] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:14:13,428 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:14:13,428 - app - DEBUG - Received audio data length: 52962
+2024-06-30 17:14:13,428 - app - DEBUG - Received audio data sample: b'RIFF\xda\xce\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xb6\xce\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:14:13,429 - app - DEBUG - hellooooo0.005039243105708617
+2024-06-30 17:14:13,430 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:14:13] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:14:16,521 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:14:16,521 - app - DEBUG - Received audio data length: 26502
+2024-06-30 17:14:16,521 - app - DEBUG - Received audio data sample: b'RIFF~g\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00dataZg\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:14:16,522 - app - DEBUG - hellooooo0.0
+2024-06-30 17:14:16,523 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:14:16] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:15:27,973 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:15:27,973 - app - DEBUG - Received audio data length: 5334
+2024-06-30 17:15:27,974 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:15:27,974 - app - DEBUG - hellooooo0.0
+2024-06-30 17:15:27,975 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:15:27] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:15:37,326 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:15:37,326 - app - DEBUG - Received audio data length: 5334
+2024-06-30 17:15:37,326 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:15:37,327 - app - DEBUG - hellooooo0.0
+2024-06-30 17:15:37,328 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:15:37] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:27:37,766 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:27:37,767 - app - DEBUG - Received audio data length: 5334
+2024-06-30 17:27:37,768 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:27:37,768 - app - DEBUG - hellooooo0.0
+2024-06-30 17:27:37,769 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:27:37] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:33:14,264 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:33:14,265 - app - DEBUG - Received audio data length: 5334
+2024-06-30 17:33:14,265 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:33:14,265 - app - DEBUG - hellooooo0.0
+2024-06-30 17:33:14,266 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:33:14] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:42:48,039 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:42:48,039 - app - DEBUG - Received audio data length: 5334
+2024-06-30 17:42:48,039 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:42:48,041 - app - DEBUG - hellooooo0.5545053560200586
+2024-06-30 17:42:48,042 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:42:48] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:52:55,698 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:52:55,698 - app - DEBUG - Received audio data length: 42378
+2024-06-30 17:52:55,698 - app - DEBUG - Received audio data sample: b'RIFF\x82\xa5\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data^\xa5\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:52:55,699 - app - DEBUG - hellooooo0.0
+2024-06-30 17:52:55,700 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:52:55] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:53:24,726 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:53:24,726 - app - DEBUG - Received audio data length: 79424
+2024-06-30 17:53:24,726 - app - DEBUG - Received audio data sample: b'RIFF86\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x146\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:53:24,730 - app - DEBUG - hellooooo0.0
+2024-06-30 17:53:24,731 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:53:24] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:54:04,817 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:54:04,818 - app - DEBUG - Received audio data length: 127050
+2024-06-30 17:54:04,818 - app - DEBUG - Received audio data sample: b'RIFFB\xf0\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x1e\xf0\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:54:04,820 - app - DEBUG - hellooooo8.04791374689205
+2024-06-30 17:54:04,821 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:54:04] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:54:38,756 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:54:38,756 - app - DEBUG - Received audio data length: 68840
+2024-06-30 17:54:38,756 - app - DEBUG - Received audio data sample: b'RIFF\xe0\x0c\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xbc\x0c\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:54:38,758 - app - DEBUG - hellooooo0.0
+2024-06-30 17:54:38,759 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:54:38] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:54:59,027 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:54:59,027 - app - DEBUG - Received audio data length: 127050
+2024-06-30 17:54:59,027 - app - DEBUG - Received audio data sample: b'RIFFB\xf0\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x1e\xf0\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:54:59,030 - app - DEBUG - hellooooo0.0
+2024-06-30 17:54:59,031 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:54:59] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 17:57:38,972 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 17:57:38,972 - app - DEBUG - Received audio data length: 95298
+2024-06-30 17:57:38,972 - app - DEBUG - Received audio data sample: b'RIFF:t\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x16t\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 17:57:38,973 - app - DEBUG - hellooooo0.0
+2024-06-30 17:57:38,974 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 17:57:38] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:00:37,111 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:00:37,111 - app - DEBUG - Received audio data length: 227598
+2024-06-30 18:00:37,111 - app - DEBUG - Received audio data sample: b'RIFF\x06y\x03\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xe2x\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:00:37,115 - app - DEBUG - hellooooo9.500455569561742
+2024-06-30 18:00:37,116 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 18:00:37] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:05:51,626 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:05:51,626 - app - DEBUG - Received audio data length: 127050
+2024-06-30 18:05:51,626 - app - DEBUG - Received audio data sample: b'RIFFB\xf0\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x1e\xf0\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:05:51,629 - app - DEBUG - hellooooo1.7531980116500943
+2024-06-30 18:05:51,630 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 18:05:51] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:08:19,037 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:08:19,037 - app - DEBUG - Received audio data length: 95298
+2024-06-30 18:08:19,038 - app - DEBUG - Received audio data sample: b'RIFF:t\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x16t\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:08:19,040 - app - DEBUG - hellooooo0.0783869093864761
+2024-06-30 18:08:19,041 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 18:08:19] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:09:21,563 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:09:21,563 - app - DEBUG - Received audio data length: 68840
+2024-06-30 18:09:21,563 - app - DEBUG - Received audio data sample: b'RIFF\xe0\x0c\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xbc\x0c\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:09:21,565 - app - DEBUG - hellooooo0.0
+2024-06-30 18:09:21,566 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 18:09:21] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:09:26,228 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:09:26,228 - app - DEBUG - Received audio data length: 84714
+2024-06-30 18:09:26,228 - app - DEBUG - Received audio data sample: b'RIFF\xe2J\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xbeJ\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:09:26,230 - app - DEBUG - hellooooo16.74579740962355
+2024-06-30 18:09:26,231 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 18:09:26] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:09:40,577 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:09:40,577 - app - DEBUG - Received audio data length: 79424
+2024-06-30 18:09:40,577 - app - DEBUG - Received audio data sample: b'RIFF86\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x146\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:09:40,578 - app - DEBUG - hellooooo8.885529520488756
+2024-06-30 18:09:40,578 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 18:09:40] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:10:20,946 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:10:20,946 - app - DEBUG - Received audio data length: 100590
+2024-06-30 18:10:20,946 - app - DEBUG - Received audio data sample: b'RIFF\xe6\x88\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xc2\x88\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:10:20,948 - app - DEBUG - hellooooo8.078557741433713
+2024-06-30 18:10:20,949 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 18:10:20] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:10:34,321 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:10:34,321 - app - DEBUG - Received audio data length: 5334
+2024-06-30 18:10:34,321 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:10:34,322 - app - DEBUG - hellooooo0.0
+2024-06-30 18:10:34,323 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 18:10:34] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:10:50,134 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:10:50,134 - app - DEBUG - Received audio data length: 195846
+2024-06-30 18:10:50,134 - app - DEBUG - Received audio data sample: b'RIFF\xfe\xfc\x02\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xda\xfc\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:10:50,136 - app - DEBUG - hellooooo6.169497757965928
+2024-06-30 18:10:50,137 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 18:10:50] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:11:19,817 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:11:19,817 - app - DEBUG - Received audio data length: 90006
+2024-06-30 18:11:19,817 - app - DEBUG - Received audio data sample: b'RIFF\x8e_\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00dataj_\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:11:19,818 - app - DEBUG - hellooooo7.194148640568359
+2024-06-30 18:11:19,819 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 18:11:19] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:11:40,113 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:11:40,113 - app - DEBUG - Received audio data length: 21210
+2024-06-30 18:11:40,113 - app - DEBUG - Received audio data sample: b'RIFF\xd2R\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaeR\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:11:40,114 - app - DEBUG - hellooooo0.0
+2024-06-30 18:11:40,115 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 18:11:40] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:11:59,442 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:11:59,442 - app - DEBUG - Received audio data length: 291104
+2024-06-30 18:11:59,442 - app - DEBUG - Received audio data sample: b'RIFF\x18q\x04\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xf4p\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:11:59,446 - app - DEBUG - hellooooo0.0
+2024-06-30 18:11:59,446 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 18:11:59] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:12:19,286 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:12:19,287 - app - DEBUG - Received audio data length: 116466
+2024-06-30 18:12:19,287 - app - DEBUG - Received audio data sample: b'RIFF\xea\xc6\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xc6\xc6\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:12:19,289 - app - DEBUG - hellooooo2.466887701647863
+2024-06-30 18:12:19,290 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 18:12:19] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:12:38,312 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:12:38,312 - app - DEBUG - Received audio data length: 95298
+2024-06-30 18:12:38,312 - app - DEBUG - Received audio data sample: b'RIFF:t\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x16t\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:12:38,314 - app - DEBUG - hellooooo9.123676346089837
+2024-06-30 18:12:38,315 - werkzeug - INFO - 172.23.0.3 - - [30/Jun/2024 18:12:38] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:24:05,174 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 18:24:05,674 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:25:38,013 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-06-30 18:25:38,014 - werkzeug - INFO -  * Running on http://172.24.0.2:5000/ (Press CTRL+C to quit)
+2024-06-30 18:25:38,015 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:25:49,256 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:25:49,256 - app - DEBUG - Received audio data length: 79424
+2024-06-30 18:25:49,256 - app - DEBUG - Received audio data sample: b'RIFF86\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x146\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:25:49,262 - app - DEBUG - hellooooo0.0034752087297474955
+2024-06-30 18:25:49,270 - werkzeug - INFO - 172.24.0.3 - - [30/Jun/2024 18:25:49] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:25:55,755 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:25:55,756 - app - DEBUG - Received audio data length: 95298
+2024-06-30 18:25:55,756 - app - DEBUG - Received audio data sample: b'RIFF:t\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x16t\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:25:55,758 - app - DEBUG - hellooooo1.7521211888725143
+2024-06-30 18:25:55,759 - werkzeug - INFO - 172.24.0.3 - - [30/Jun/2024 18:25:55] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:26:09,012 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:26:09,012 - app - DEBUG - Received audio data length: 105882
+2024-06-30 18:26:09,013 - app - DEBUG - Received audio data sample: b'RIFF\x92\x9d\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datan\x9d\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:26:09,014 - app - DEBUG - hellooooo3.203334178273339
+2024-06-30 18:26:09,015 - werkzeug - INFO - 172.24.0.3 - - [30/Jun/2024 18:26:09] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:26:14,420 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 18:26:14,510 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:27:31,240 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-06-30 18:27:31,241 - werkzeug - INFO -  * Running on http://172.26.0.2:5000/ (Press CTRL+C to quit)
+2024-06-30 18:27:31,242 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:27:45,981 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:27:45,982 - app - DEBUG - Received audio data length: 84714
+2024-06-30 18:27:45,982 - app - DEBUG - Received audio data sample: b'RIFF\xe2J\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xbeJ\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:27:45,986 - app - DEBUG - hellooooo4.962324317961793
+2024-06-30 18:27:45,988 - werkzeug - INFO - 172.26.0.3 - - [30/Jun/2024 18:27:45] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:27:58,355 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:27:58,355 - app - DEBUG - Received audio data length: 100590
+2024-06-30 18:27:58,355 - app - DEBUG - Received audio data sample: b'RIFF\xe6\x88\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xc2\x88\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:27:58,357 - app - DEBUG - hellooooo5.209953653076946
+2024-06-30 18:27:58,358 - werkzeug - INFO - 172.26.0.3 - - [30/Jun/2024 18:27:58] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:28:03,636 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 18:28:03,719 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:29:11,154 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-06-30 18:29:11,155 - werkzeug - INFO -  * Running on http://172.27.0.2:5000/ (Press CTRL+C to quit)
+2024-06-30 18:29:11,157 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:29:23,994 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:29:23,994 - app - DEBUG - Received audio data length: 100590
+2024-06-30 18:29:23,994 - app - DEBUG - Received audio data sample: b'RIFF\xe6\x88\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xc2\x88\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:29:23,997 - app - DEBUG - hellooooo8.963061683248611
+2024-06-30 18:29:23,998 - werkzeug - INFO - 172.27.0.3 - - [30/Jun/2024 18:29:23] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:29:32,475 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 18:29:32,573 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:30:56,491 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-06-30 18:30:56,491 - werkzeug - INFO -  * Running on http://172.28.0.2:5000/ (Press CTRL+C to quit)
+2024-06-30 18:30:56,492 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:31:16,946 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:31:16,947 - app - DEBUG - Received audio data length: 63546
+2024-06-30 18:31:16,947 - app - DEBUG - Received audio data sample: b'RIFF2\xf8\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x0e\xf8\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:31:16,949 - app - DEBUG - hellooooo4.821895373395009
+2024-06-30 18:31:16,950 - werkzeug - INFO - 172.28.0.3 - - [30/Jun/2024 18:31:16] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:31:33,196 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 18:31:33,262 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:32:49,874 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-06-30 18:32:49,875 - werkzeug - INFO -  * Running on http://172.29.0.2:5000/ (Press CTRL+C to quit)
+2024-06-30 18:32:49,877 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 18:34:25,833 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:34:25,833 - app - DEBUG - Received audio data length: 84714
+2024-06-30 18:34:25,833 - app - DEBUG - Received audio data sample: b'RIFF\xe2J\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xbeJ\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:34:25,837 - app - DEBUG - hellooooo30.542104641682215
+2024-06-30 18:34:25,838 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:34:25] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:46:43,298 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:46:43,298 - app - DEBUG - Received audio data length: 74132
+2024-06-30 18:46:43,298 - app - DEBUG - Received audio data sample: b'RIFF\x8c!\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datah!\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:46:43,299 - app - DEBUG - hellooooo69.3364647449291
+2024-06-30 18:46:43,300 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:46:43] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:46:57,766 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:46:57,766 - app - DEBUG - Received audio data length: 95298
+2024-06-30 18:46:57,767 - app - DEBUG - Received audio data sample: b'RIFF:t\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x16t\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:46:57,768 - app - DEBUG - hellooooo65.183614336689
+2024-06-30 18:46:57,769 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:46:57] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:47:02,045 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:47:02,045 - app - DEBUG - Received audio data length: 100590
+2024-06-30 18:47:02,045 - app - DEBUG - Received audio data sample: b'RIFF\xe6\x88\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xc2\x88\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:47:02,047 - app - DEBUG - hellooooo32.82079844065734
+2024-06-30 18:47:02,048 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:47:02] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:47:05,442 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:47:05,442 - app - DEBUG - Received audio data length: 74132
+2024-06-30 18:47:05,442 - app - DEBUG - Received audio data sample: b'RIFF\x8c!\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datah!\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:47:05,444 - app - DEBUG - hellooooo15.576071698588265
+2024-06-30 18:47:05,445 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:47:05] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:47:13,306 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:47:13,306 - app - DEBUG - Received audio data length: 68840
+2024-06-30 18:47:13,306 - app - DEBUG - Received audio data sample: b'RIFF\xe0\x0c\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xbc\x0c\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:47:13,307 - app - DEBUG - hellooooo13.024013024069632
+2024-06-30 18:47:13,308 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:47:13] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:47:16,976 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:47:16,976 - app - DEBUG - Received audio data length: 68840
+2024-06-30 18:47:16,976 - app - DEBUG - Received audio data sample: b'RIFF\xe0\x0c\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xbc\x0c\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:47:16,977 - app - DEBUG - hellooooo0.0
+2024-06-30 18:47:16,978 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:47:16] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:47:19,537 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:47:19,537 - app - DEBUG - Received audio data length: 47670
+2024-06-30 18:47:19,537 - app - DEBUG - Received audio data sample: b'RIFF.\xba\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\n\xba\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:47:19,538 - app - DEBUG - hellooooo0.0
+2024-06-30 18:47:19,539 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:47:19] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:47:21,655 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:47:21,656 - app - DEBUG - Received audio data length: 63546
+2024-06-30 18:47:21,656 - app - DEBUG - Received audio data sample: b'RIFF2\xf8\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x0e\xf8\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:47:21,657 - app - DEBUG - hellooooo0.0
+2024-06-30 18:47:21,658 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:47:21] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:47:24,286 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:47:24,287 - app - DEBUG - Received audio data length: 100590
+2024-06-30 18:47:24,287 - app - DEBUG - Received audio data sample: b'RIFF\xe6\x88\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xc2\x88\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:47:24,289 - app - DEBUG - hellooooo30.841604837720737
+2024-06-30 18:47:24,290 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:47:24] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:47:27,525 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:47:27,525 - app - DEBUG - Received audio data length: 79424
+2024-06-30 18:47:27,525 - app - DEBUG - Received audio data sample: b'RIFF86\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x146\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:47:27,527 - app - DEBUG - hellooooo0.3149407911325852
+2024-06-30 18:47:27,528 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:47:27] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:47:35,546 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:47:35,547 - app - DEBUG - Received audio data length: 58254
+2024-06-30 18:47:35,547 - app - DEBUG - Received audio data sample: b'RIFF\x86\xe3\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datab\xe3\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:47:35,548 - app - DEBUG - hellooooo0.0
+2024-06-30 18:47:35,548 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:47:35] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:47:42,177 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:47:42,177 - app - DEBUG - Received audio data length: 121758
+2024-06-30 18:47:42,177 - app - DEBUG - Received audio data sample: b'RIFF\x96\xdb\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datar\xdb\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:47:42,179 - app - DEBUG - hellooooo0.0
+2024-06-30 18:47:42,180 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:47:42] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:47:59,200 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:47:59,200 - app - DEBUG - Received audio data length: 238182
+2024-06-30 18:47:59,200 - app - DEBUG - Received audio data sample: b'RIFF^\xa2\x03\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data:\xa2\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:47:59,205 - app - DEBUG - hellooooo0.0
+2024-06-30 18:47:59,205 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:47:59] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:48:17,500 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:48:17,500 - app - DEBUG - Received audio data length: 74132
+2024-06-30 18:48:17,500 - app - DEBUG - Received audio data sample: b'RIFF\x8c!\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datah!\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:48:17,502 - app - DEBUG - hellooooo8.273944498470271
+2024-06-30 18:48:17,503 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:48:17] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:48:27,114 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:48:27,114 - app - DEBUG - Received audio data length: 111174
+2024-06-30 18:48:27,114 - app - DEBUG - Received audio data sample: b'RIFF>\xb2\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x1a\xb2\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:48:27,117 - app - DEBUG - hellooooo2.8525150724500747
+2024-06-30 18:48:27,118 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:48:27] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:48:37,895 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:48:37,895 - app - DEBUG - Received audio data length: 105882
+2024-06-30 18:48:37,896 - app - DEBUG - Received audio data sample: b'RIFF\x92\x9d\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datan\x9d\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:48:37,898 - app - DEBUG - hellooooo3.4203216236281975
+2024-06-30 18:48:37,899 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:48:37] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:48:44,889 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 18:48:44,889 - app - DEBUG - Received audio data length: 74132
+2024-06-30 18:48:44,889 - app - DEBUG - Received audio data sample: b'RIFF\x8c!\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datah!\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 18:48:44,890 - app - DEBUG - hellooooo21.258503401452842
+2024-06-30 18:48:44,891 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 18:48:44] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 18:49:11,719 - werkzeug - INFO -  * Detected change in '/app/app.py', reloading
+2024-06-30 18:49:11,799 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 19:06:04,253 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:06:04,253 - app - DEBUG - Received audio data length: 90006
+2024-06-30 19:06:04,253 - app - DEBUG - Received audio data sample: b'RIFF\x8e_\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00dataj_\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:06:04,256 - app - DEBUG - hellooooo13.950334585774513
+2024-06-30 19:06:04,258 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:06:04] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:34:13,754 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:34:13,754 - app - DEBUG - Received audio data length: 21210
+2024-06-30 19:34:13,754 - app - DEBUG - Received audio data sample: b'RIFF\xd2R\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaeR\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:34:13,755 - app - DEBUG - hellooooo0.04724558253826672
+2024-06-30 19:34:13,756 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:34:13] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:34:54,754 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:34:54,755 - app - DEBUG - Received audio data length: 31794
+2024-06-30 19:34:54,755 - app - DEBUG - Received audio data sample: b'RIFF*|\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x06|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:34:54,756 - app - DEBUG - hellooooo0.0
+2024-06-30 19:34:54,757 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:34:54] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:35:32,524 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:35:32,524 - app - DEBUG - Received audio data length: 21210
+2024-06-30 19:35:32,524 - app - DEBUG - Received audio data sample: b'RIFF\xd2R\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaeR\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:35:32,525 - app - DEBUG - hellooooo0.0
+2024-06-30 19:35:32,526 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:35:32] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:35:35,436 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:35:35,436 - app - DEBUG - Received audio data length: 26502
+2024-06-30 19:35:35,436 - app - DEBUG - Received audio data sample: b'RIFF~g\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00dataZg\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:35:35,437 - app - DEBUG - hellooooo0.0
+2024-06-30 19:35:35,438 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:35:35] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:35:42,111 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:35:42,111 - app - DEBUG - Received audio data length: 100590
+2024-06-30 19:35:42,111 - app - DEBUG - Received audio data sample: b'RIFF\xe6\x88\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xc2\x88\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:35:42,113 - app - DEBUG - hellooooo30.324428619867945
+2024-06-30 19:35:42,114 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:35:42] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:35:45,507 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:35:45,507 - app - DEBUG - Received audio data length: 105882
+2024-06-30 19:35:45,507 - app - DEBUG - Received audio data sample: b'RIFF\x92\x9d\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datan\x9d\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:35:45,509 - app - DEBUG - hellooooo0.0
+2024-06-30 19:35:45,510 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:35:45] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:35:49,403 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:35:49,403 - app - DEBUG - Received audio data length: 111174
+2024-06-30 19:35:49,404 - app - DEBUG - Received audio data sample: b'RIFF>\xb2\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x1a\xb2\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:35:49,407 - app - DEBUG - hellooooo0.10798164312120662
+2024-06-30 19:35:49,408 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:35:49] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:35:57,451 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:35:57,451 - app - DEBUG - Received audio data length: 68840
+2024-06-30 19:35:57,451 - app - DEBUG - Received audio data sample: b'RIFF\xe0\x0c\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xbc\x0c\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:35:57,452 - app - DEBUG - hellooooo0.0
+2024-06-30 19:35:57,453 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:35:57] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:36:23,277 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:36:23,277 - app - DEBUG - Received audio data length: 100590
+2024-06-30 19:36:23,277 - app - DEBUG - Received audio data sample: b'RIFF\xe6\x88\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xc2\x88\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:36:23,279 - app - DEBUG - hellooooo0.0
+2024-06-30 19:36:23,280 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:36:23] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:45:20,989 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:45:20,990 - app - DEBUG - Received audio data length: 100590
+2024-06-30 19:45:20,990 - app - DEBUG - Received audio data sample: b'RIFF\xe6\x88\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xc2\x88\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:45:20,992 - app - DEBUG - hellooooo2.9439261631620184
+2024-06-30 19:45:20,993 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:45:20] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:45:26,093 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:45:26,093 - app - DEBUG - Received audio data length: 105882
+2024-06-30 19:45:26,093 - app - DEBUG - Received audio data sample: b'RIFF\x92\x9d\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datan\x9d\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:45:26,095 - app - DEBUG - hellooooo5.0076532058645995
+2024-06-30 19:45:26,096 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:45:26] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:45:29,559 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:45:29,559 - app - DEBUG - Received audio data length: 95298
+2024-06-30 19:45:29,559 - app - DEBUG - Received audio data sample: b'RIFF:t\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x16t\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:45:29,561 - app - DEBUG - hellooooo10.340773090938669
+2024-06-30 19:45:29,562 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:45:29] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:45:32,463 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:45:32,464 - app - DEBUG - Received audio data length: 79424
+2024-06-30 19:45:32,464 - app - DEBUG - Received audio data sample: b'RIFF86\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x146\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:45:32,465 - app - DEBUG - hellooooo0.0
+2024-06-30 19:45:32,466 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:45:32] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:45:35,439 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:45:35,439 - app - DEBUG - Received audio data length: 74132
+2024-06-30 19:45:35,439 - app - DEBUG - Received audio data sample: b'RIFF\x8c!\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datah!\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:45:35,441 - app - DEBUG - hellooooo0.0
+2024-06-30 19:45:35,442 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:45:35] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:45:38,525 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:45:38,525 - app - DEBUG - Received audio data length: 100590
+2024-06-30 19:45:38,526 - app - DEBUG - Received audio data sample: b'RIFF\xe6\x88\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xc2\x88\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:45:38,528 - app - DEBUG - hellooooo1.312831937626342
+2024-06-30 19:45:38,529 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:45:38] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:45:43,533 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:45:43,533 - app - DEBUG - Received audio data length: 63546
+2024-06-30 19:45:43,533 - app - DEBUG - Received audio data sample: b'RIFF2\xf8\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x0e\xf8\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:45:43,535 - app - DEBUG - hellooooo0.0
+2024-06-30 19:45:43,536 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:45:43] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:46:25,351 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:46:25,351 - app - DEBUG - Received audio data length: 95298
+2024-06-30 19:46:25,351 - app - DEBUG - Received audio data sample: b'RIFF:t\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x16t\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:46:25,353 - app - DEBUG - hellooooo10.90767841775154
+2024-06-30 19:46:25,354 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:46:25] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:46:30,607 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:46:30,607 - app - DEBUG - Received audio data length: 79424
+2024-06-30 19:46:30,607 - app - DEBUG - Received audio data sample: b'RIFF86\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x146\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:46:30,609 - app - DEBUG - hellooooo0.0
+2024-06-30 19:46:30,610 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:46:30] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:46:34,373 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:46:34,373 - app - DEBUG - Received audio data length: 90006
+2024-06-30 19:46:34,374 - app - DEBUG - Received audio data sample: b'RIFF\x8e_\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00dataj_\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:46:34,375 - app - DEBUG - hellooooo0.0
+2024-06-30 19:46:34,376 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:46:34] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:46:39,733 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:46:39,733 - app - DEBUG - Received audio data length: 90006
+2024-06-30 19:46:39,733 - app - DEBUG - Received audio data sample: b'RIFF\x8e_\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00dataj_\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:46:39,735 - app - DEBUG - hellooooo6.336008536965352
+2024-06-30 19:46:39,736 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:46:39] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:49:50,128 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:49:50,129 - app - DEBUG - Received audio data length: 74132
+2024-06-30 19:49:50,129 - app - DEBUG - Received audio data sample: b'RIFF\x8c!\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datah!\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:49:50,130 - app - DEBUG - hellooooo2.5105280207429814
+2024-06-30 19:49:50,131 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:49:50] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:49:53,118 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:49:53,118 - app - DEBUG - Received audio data length: 58254
+2024-06-30 19:49:53,118 - app - DEBUG - Received audio data sample: b'RIFF\x86\xe3\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datab\xe3\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:49:53,119 - app - DEBUG - hellooooo1.6663803470266458
+2024-06-30 19:49:53,120 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:49:53] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:49:57,290 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:49:57,290 - app - DEBUG - Received audio data length: 74132
+2024-06-30 19:49:57,290 - app - DEBUG - Received audio data sample: b'RIFF\x8c!\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datah!\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:49:57,292 - app - DEBUG - hellooooo0.0
+2024-06-30 19:49:57,292 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:49:57] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:50:00,038 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:50:00,038 - app - DEBUG - Received audio data length: 68840
+2024-06-30 19:50:00,038 - app - DEBUG - Received audio data sample: b'RIFF\xe0\x0c\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xbc\x0c\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:50:00,040 - app - DEBUG - hellooooo0.0
+2024-06-30 19:50:00,041 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:50:00] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:50:06,242 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:50:06,242 - app - DEBUG - Received audio data length: 63546
+2024-06-30 19:50:06,242 - app - DEBUG - Received audio data sample: b'RIFF2\xf8\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x0e\xf8\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:50:06,243 - app - DEBUG - hellooooo0.0
+2024-06-30 19:50:06,244 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:50:06] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:50:09,528 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:50:09,528 - app - DEBUG - Received audio data length: 42378
+2024-06-30 19:50:09,528 - app - DEBUG - Received audio data sample: b'RIFF\x82\xa5\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data^\xa5\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:50:09,529 - app - DEBUG - hellooooo11.2675390939215
+2024-06-30 19:50:09,530 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:50:09] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:50:12,651 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:50:12,651 - app - DEBUG - Received audio data length: 42378
+2024-06-30 19:50:12,651 - app - DEBUG - Received audio data sample: b'RIFF\x82\xa5\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data^\xa5\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:50:12,653 - app - DEBUG - hellooooo0.0
+2024-06-30 19:50:12,654 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:50:12] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:50:16,601 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:50:16,602 - app - DEBUG - Received audio data length: 63546
+2024-06-30 19:50:16,602 - app - DEBUG - Received audio data sample: b'RIFF2\xf8\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x0e\xf8\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:50:16,603 - app - DEBUG - hellooooo0.0
+2024-06-30 19:50:16,604 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:50:16] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:51:57,153 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:51:57,153 - app - DEBUG - Received audio data length: 63546
+2024-06-30 19:51:57,153 - app - DEBUG - Received audio data sample: b'RIFF2\xf8\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x0e\xf8\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:51:57,154 - app - DEBUG - hellooooo0.0
+2024-06-30 19:51:57,156 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:51:57] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:52:01,477 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:52:01,478 - app - DEBUG - Received audio data length: 111174
+2024-06-30 19:52:01,478 - app - DEBUG - Received audio data sample: b'RIFF>\xb2\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x1a\xb2\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:52:01,480 - app - DEBUG - hellooooo3.707369747159106
+2024-06-30 19:52:01,481 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:52:01] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:52:04,559 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:52:04,559 - app - DEBUG - Received audio data length: 95298
+2024-06-30 19:52:04,560 - app - DEBUG - Received audio data sample: b'RIFF:t\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x16t\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:52:04,562 - app - DEBUG - hellooooo6.393432296834192
+2024-06-30 19:52:04,563 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:52:04] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:52:18,616 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:52:18,616 - app - DEBUG - Received audio data length: 90006
+2024-06-30 19:52:18,617 - app - DEBUG - Received audio data sample: b'RIFF\x8e_\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00dataj_\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:52:18,618 - app - DEBUG - hellooooo0.0
+2024-06-30 19:52:18,619 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:52:18] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:52:26,795 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:52:26,795 - app - DEBUG - Received audio data length: 58254
+2024-06-30 19:52:26,796 - app - DEBUG - Received audio data sample: b'RIFF\x86\xe3\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datab\xe3\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:52:26,797 - app - DEBUG - hellooooo0.0
+2024-06-30 19:52:26,798 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:52:26] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:52:32,835 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:52:32,835 - app - DEBUG - Received audio data length: 58254
+2024-06-30 19:52:32,836 - app - DEBUG - Received audio data sample: b'RIFF\x86\xe3\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datab\xe3\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:52:32,837 - app - DEBUG - hellooooo0.0
+2024-06-30 19:52:32,838 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:52:32] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:52:41,139 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:52:41,139 - app - DEBUG - Received audio data length: 127050
+2024-06-30 19:52:41,139 - app - DEBUG - Received audio data sample: b'RIFFB\xf0\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x1e\xf0\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:52:41,142 - app - DEBUG - hellooooo0.0
+2024-06-30 19:52:41,143 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:52:41] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:52:46,758 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:52:46,758 - app - DEBUG - Received audio data length: 95298
+2024-06-30 19:52:46,758 - app - DEBUG - Received audio data sample: b'RIFF:t\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x16t\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:52:46,760 - app - DEBUG - hellooooo0.0
+2024-06-30 19:52:46,761 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:52:46] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:52:51,091 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:52:51,091 - app - DEBUG - Received audio data length: 74132
+2024-06-30 19:52:51,091 - app - DEBUG - Received audio data sample: b'RIFF\x8c!\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00datah!\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:52:51,093 - app - DEBUG - hellooooo0.0
+2024-06-30 19:52:51,094 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:52:51] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 19:52:55,052 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 19:52:55,052 - app - DEBUG - Received audio data length: 52962
+2024-06-30 19:52:55,052 - app - DEBUG - Received audio data sample: b'RIFF\xda\xce\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xb6\xce\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 19:52:55,053 - app - DEBUG - hellooooo4.762084734893506
+2024-06-30 19:52:55,054 - werkzeug - INFO - 172.29.0.3 - - [30/Jun/2024 19:52:55] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:09:07,234 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-06-30 20:09:07,239 - werkzeug - INFO -  * Running on http://172.30.0.2:5000/ (Press CTRL+C to quit)
+2024-06-30 20:09:07,241 - werkzeug - INFO -  * Restarting with stat
+2024-06-30 20:17:32,155 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:17:32,156 - app - DEBUG - Received audio data length: 47670
+2024-06-30 20:17:32,156 - app - DEBUG - Received audio data sample: b'RIFF.\xba\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\n\xba\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:17:32,158 - app - DEBUG - hellooooo0.0
+2024-06-30 20:17:32,160 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:17:32] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:18:43,801 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:18:43,801 - app - DEBUG - Received audio data length: 63546
+2024-06-30 20:18:43,801 - app - DEBUG - Received audio data sample: b'RIFF2\xf8\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x0e\xf8\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:18:43,803 - app - DEBUG - hellooooo0.0
+2024-06-30 20:18:43,804 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:18:43] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:20:07,815 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:20:07,815 - app - DEBUG - Received audio data length: 15918
+2024-06-30 20:20:07,816 - app - DEBUG - Received audio data sample: b'RIFF&>\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x02>\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:20:07,816 - app - DEBUG - hellooooo0.0
+2024-06-30 20:20:07,817 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:20:07] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:20:18,800 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:20:18,800 - app - DEBUG - Received audio data length: 68840
+2024-06-30 20:20:18,800 - app - DEBUG - Received audio data sample: b'RIFF\xe0\x0c\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xbc\x0c\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:20:18,804 - app - DEBUG - hellooooo0.21803593232256446
+2024-06-30 20:20:18,804 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:20:18] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:20:22,550 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:20:22,550 - app - DEBUG - Received audio data length: 63546
+2024-06-30 20:20:22,550 - app - DEBUG - Received audio data sample: b'RIFF2\xf8\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x0e\xf8\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:20:22,551 - app - DEBUG - hellooooo0.2834556391937326
+2024-06-30 20:20:22,551 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:20:22] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:20:26,444 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:20:26,444 - app - DEBUG - Received audio data length: 84714
+2024-06-30 20:20:26,444 - app - DEBUG - Received audio data sample: b'RIFF\xe2J\x01\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xbeJ\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:20:26,446 - app - DEBUG - hellooooo10.830282272398577
+2024-06-30 20:20:26,447 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:20:26] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:20:33,432 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:20:33,433 - app - DEBUG - Received audio data length: 5334
+2024-06-30 20:20:33,433 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:20:33,433 - app - DEBUG - hellooooo0.0
+2024-06-30 20:20:33,434 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:20:33] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:21:30,498 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:21:30,498 - app - DEBUG - Received audio data length: 37088
+2024-06-30 20:21:30,498 - app - DEBUG - Received audio data sample: b'RIFF\xd8\x90\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xb4\x90\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:21:30,499 - app - DEBUG - hellooooo0.0
+2024-06-30 20:21:30,500 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:21:30] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:21:56,221 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:21:56,221 - app - DEBUG - Received audio data length: 5334
+2024-06-30 20:21:56,221 - app - DEBUG - Received audio data sample: b'RIFF\xce\x14\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xaa\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:21:56,221 - app - DEBUG - hellooooo0.0
+2024-06-30 20:21:56,223 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:21:56] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:22:12,717 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:22:12,717 - app - DEBUG - Received audio data length: 26502
+2024-06-30 20:22:12,717 - app - DEBUG - Received audio data sample: b'RIFF~g\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00dataZg\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:22:12,718 - app - DEBUG - hellooooo0.0
+2024-06-30 20:22:12,718 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:22:12] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:22:50,027 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:22:50,027 - app - DEBUG - Received audio data length: 10626
+2024-06-30 20:22:50,027 - app - DEBUG - Received audio data sample: b'RIFFz)\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00dataV)\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:22:50,028 - app - DEBUG - hellooooo0.0
+2024-06-30 20:22:50,029 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:22:50] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:22:55,524 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:22:55,524 - app - DEBUG - Received audio data length: 37088
+2024-06-30 20:22:55,524 - app - DEBUG - Received audio data sample: b'RIFF\xd8\x90\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\xb4\x90\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:22:55,525 - app - DEBUG - hellooooo0.0
+2024-06-30 20:22:55,526 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:22:55] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:23:05,264 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:23:05,264 - app - DEBUG - Received audio data length: 10626
+2024-06-30 20:23:05,264 - app - DEBUG - Received audio data sample: b'RIFFz)\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00dataV)\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:23:05,265 - app - DEBUG - hellooooo0.0
+2024-06-30 20:23:05,266 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:23:05] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:23:17,284 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:23:17,285 - app - DEBUG - Received audio data length: 15918
+2024-06-30 20:23:17,285 - app - DEBUG - Received audio data sample: b'RIFF&>\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x02>\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:23:17,285 - app - DEBUG - hellooooo0.0
+2024-06-30 20:23:17,286 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:23:17] "POST /process-data HTTP/1.1" 200 -
+2024-06-30 20:24:05,027 - app - DEBUG - Received audio data type: <class 'bytes'>
+2024-06-30 20:24:05,027 - app - DEBUG - Received audio data length: 15918
+2024-06-30 20:24:05,027 - app - DEBUG - Received audio data sample: b'RIFF&>\x00\x00WAVEfmt \x10\x00\x00\x00\x01\x00\x01\x00D\xac\x00\x00\x88X\x01\x00\x02\x00\x10\x00data\x02>\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+2024-06-30 20:24:05,028 - app - DEBUG - hellooooo0.0
+2024-06-30 20:24:05,029 - werkzeug - INFO - 172.30.0.3 - - [30/Jun/2024 20:24:05] "POST /process-data HTTP/1.1" 200 -
