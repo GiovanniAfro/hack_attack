@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Noise Awareness App</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+</head>
+<body>
+  <header>
+    <h1 class="fade-in">Noise Awareness</h1>
+    <nav class="fade-in">
+      <ul>
+        <li><a href="#" onclick="showPage('home')">Home</a></li>
+        <li><a href="#" onclick="showPage('quiz')">Quiz</a></li>
+        <li><a href="#" onclick="showPage('games')">Giochi</a></li>
+        <li><a href="#" onclick="showPage('social'); initMap(); showRatings();">Map</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home" class="page fade-in">
+      <h2>Benvenuti nella Noise Pollution Awareness App</h2>
+      <p>Scopri i rischi dell'inquinamento acustico e come proteggere il tuo udito.</p>
+      <button onclick="showPage('educational')">Contenuti Educativi</button>
+    </section>
+
+    <section id="educational" class="page fade-in">
+      <h2>Contenuti Educativi</h2>
+      <p>L'inquinamento acustico è una forma di inquinamento che può avere effetti negativi sulla salute umana...</p>
+    </section>
+
+    <section id="quiz" class="page fade-in">
+      <h2>Quiz Interattivo</h2>
+      <button onclick="showPage('quiz-easy')">easy</button>
+      <button onclick="showPage('quiz-medium')">medium</button>
+      <button onclick="showPage('quiz-hard')">hard</button>
+    </section>
+
+    <section id="quiz-easy" class="page fade-in">
+      <h2>Quiz Easy</h2>
+      <div id="quiz-container-easy"></div>
+    </section>
+
+    <section id="quiz-medium" class="page fade-in">
+      <h2>Quiz Medium</h2>
+      <div id="quiz-container-medium"></div>
+    </section>
+
+    <section id="quiz-hard" class="page fade-in">
+      <h2>Quiz Hard</h2>
+      <div id="quiz-container-hard"></div>
+    </section>
+
+    <section id="games" class="page fade-in">
+      <h2>Giochi Educativi</h2>
+      <p>Questi giochi educativi sono progettati per diverse fasce d'età in base alle fasi di sviluppo del cervello e dell'udito dei giocatori.</p>
+      <button onclick="showPage('game3-6')">eta 3-6</button>
+      <button onclick="showPage('game7-12')">eta 7-12</button>
+      <button onclick="showPage('game++')">eta ++</button>
+    </section>
+
+    <section id="game3-6" class="page fade-in">
+      <h2>Giochi per eta 3-6</h2>
+      <p>Per i bambini tra i 3 e i 6 anni, i giochi sono semplici e interattivi per sviluppare la percezione dei suoni e le abilità motorie di base.</p>
+      <p>Clicca sugli oggetti rumorosi per silenziarli e ridurre l'inquinamento acustico!</p>
+    </section>
+
+    <section id="game7-12" class="page fade-in">
+      <h2>Giochi per eta 7-12</h2>
+      <p>Per i bambini tra i 7 e i 12 anni, i giochi diventano più complessi, coinvolgendo la narrazione e la risoluzione di problemi per migliorare la loro comprensione del mondo sonoro.</p>
+      <p>Un gioco narrativo dove il giocatore segue la storia di una comunità che lotta contro l'inquinamento acustico.</p>
+      <button onclick="startGame()">Inizia Gioco</button>
+    </section>
+
+    <section id="game++" class="page fade-in">
+      <h2>Giochi per eta ++</h2>
+      <p>Per i giocatori di età superiore a 12 anni, i giochi sono progettati per sfidare le loro abilità strategiche e critiche, immersi in mondi fantasy complessi.</p>
+      <p>Un gioco a tema fantasy dove il giocatore è un guardiano del silenzio che protegge un mondo magico dai mostri del rumore. Usando poteri speciali, il giocatore deve catturare e neutralizzare le creature rumorose, ripristinando la pace e la tranquillità.</p>
+      <button onclick="startGame()">Inizia Gioco</button>
+    </section>
+
+    <section id="social" class="page fade-in">
+      <h2>Campagne di Sensibilizzazione Social</h2>
+      <div id="map" style="height: 400px;"></div>
+      <form id="ratingForm" onsubmit="submitRating(event)">
+        <label for="locationInput">Cerca una località:</label>
+        <input type="text" id="locationInput" />
+        <button type="button" onclick="loadMap()">Cerca</button>
+        <br />
+        <label for="placeName">Nome del luogo:</label>
+        <input type="text" id="placeName" readonly />
+        <br />
+        <label for="placeAddress">Indirizzo del luogo:</label>
+        <input type="text" id="placeAddress" readonly />
+        <br />
+        <label for="rating">Valutazione:</label>
+        <input type="number" id="rating" min="0" max="5" step="1" />
+        <br />
+        <label for="comment">Commento:</label>
+        <textarea id="comment"></textarea>
+        <br />
+        <button type="submit">Invia Valutazione</button>
+      </form>
+      <button onclick="toggleComments()">Mostra/Nascondi Commenti</button>
+      <button onclick="sortComments('asc')">Ordina per Valutazione (Crescente)</button>
+      <button onclick="sortComments('desc')">Ordina per Valutazione (Decrescente)</button>
+      <ul id="ratedPlacesList" class="list-group"></ul>
+    </section>
+  </main>
+
+  <footer class="fade-in">
+    <p>&copy; 2024 Noise Awareness. All Rights Reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
