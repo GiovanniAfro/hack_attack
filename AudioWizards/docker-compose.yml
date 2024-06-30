@@ -1,0 +1,10 @@
+services:
+  assembler:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - EXPO_TOKEN=${EXPO_TOKEN}
+    container_name: assembler
+    volumes:
+      - ./app/dist:/app/dist
