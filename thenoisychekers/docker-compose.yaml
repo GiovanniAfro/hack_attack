@@ -1,0 +1,53 @@
+services:
+  db:
+    image: mariadb:latest
+    container_name: mariadb
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpass
+      MYSQL_DATABASE: 42hackattack2024
+      MYSQL_USER: 42user
+      MYSQL_PASSWORD: 42pass
+    command: --default-authentication-plugin=mysql_native_password
+    volumes:
+      - mariadb:/var/lib/mysql
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest
+    container_name: phpmyadmin
+    environment:
+      PMA_HOST: db
+      PMA_USER: 42user
+      PMA_PASSWORD: 42pass
+    ports:
+      - '8080:80'
+    depends_on:
+      - db
+
+  fastapi:
+    image: python:3.11.9
+    container_name: fastapi
+    working_dir: /app
+    command: >
+      bash -c "pip install poetry && poetry lock && poetry install && poetry run fastapi run api/app.py"
+    volumes:
+      - ./api/:/app
+    ports:
+      - '8008:8000'
+    depends_on:
+      - db
+
+  frontend:
+    image: python:3.11.9
+    container_name: frontend
+    working_dir: /frontend
+    command: >
+      bash -c "pip install poetry && poetry lock && poetry install && poetry run streamlit run folium_map.py"
+    volumes:
+      - ./frontend/:/frontend
+    ports:
+      - '8888:8501'
+    depends_on:
+      - fastapi
+
+volumes:
+  mariadb:
