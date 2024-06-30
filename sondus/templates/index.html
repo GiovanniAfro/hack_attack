@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ANC Signal Processing</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-family: 'Roboto', sans-serif;
+            background-color: #121212;
+            color: #FFFFFF;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            overflow: auto;
+        }
+        h1 {
+            margin-top: 20px;
+            font-size: 3em;
+            color: #00E676;
+            text-shadow: 0 0 10px #00E676;
+        }
+        #graphs-container {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            max-width: 1200px;
+            position: relative;
+        }
+        #graphs {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 40%;
+        }
+        .graph-container {
+            width: 90%;
+            min-width: 300px;
+            margin: 10px 0;
+            background-color: #1E1E1E;
+            border-radius: 10px;
+            padding: 10px;
+            box-shadow: 0 0 20px rgba(0, 230, 118, 0.2);
+        }
+        #graphs-right {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 40%;
+        }
+        #controls {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            z-index: 10;
+        }
+        #controls button {
+            padding: 15px 30px;
+            font-size: 18px;
+            cursor: pointer;
+            margin: 10px;
+            border: none;
+            border-radius: 10px;
+            background-color: #00E676;
+            color: #121212;
+            transition: transform 0.2s;
+        }
+        #controls button:hover {
+            transform: scale(1.1);
+        }
+        #noise-reduction {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            text-align: center;
+            z-index: 10;
+        }
+        #noise_reduction_db {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 10px;
+            color: #00E676;
+            text-shadow: 0 0 10px #00E676;
+        }
+    </style>
+</head>
+<body>
+    <h1>ANC Signal Processing</h1>
+    <div id="graphs-container">
+        <div id="graphs" style="display: none;">
+            <div class="graph-container">
+                <h3>Audio Registrato</h3>
+                <div id="final_signal_plot"></div>
+            </div>
+            <div class="graph-container">
+                <h3>Audio Riprodotto per Cancellare il Suono</h3>
+                <div id="error_signal_plot"></div>
+            </div>
+        </div>
+        <div id="graphs-right" style="display: none;">
+            <div class="graph-container">
+                <h3>Audio Combinato</h3>
+                <div id="combined_signal_plot"></div>
+            </div>
+        </div>
+    </div>
+    <div id="controls">
+        <button id="start-button" onclick="startProcessing()">ON</button>
+        <button id="stop-button" onclick="stopProcessing()" style="display: none;">OFF</button>
+    </div>
+    <div id="noise-reduction" style="display: none;">
+        <h3>Riduzione del Rumore (dB)</h3>
+        <div id="noise_reduction_db"></div>
+    </div>
+
+    <script>
+        var socket = io();
+        var finalSignalData = { x: [], y: [], mode: 'lines', name: 'Final Signal' };
+        var errorSignalData = { x: [], y: [], mode: 'lines', name: 'Error Signal' };
+        var combinedSignalData = { x: [], y: [], mode: 'lines', name: 'Combined Signal' };
+        var isProcessing = false;
+        var xValue = 0;
+
+        Plotly.newPlot('final_signal_plot', [finalSignalData], {
+            xaxis: { title: 'Campioni' },
+            yaxis: { title: 'Ampiezza', range: [-0.5, 0.5] },
+            paper_bgcolor: '#1E1E1E',
+            plot_bgcolor: '#1E1E1E',
+            font: { color: '#FFFFFF' }
+        });
+        Plotly.newPlot('error_signal_plot', [errorSignalData], {
+            xaxis: { title: 'Campioni' },
+            yaxis: { title: 'Ampiezza', range: [-0.5, 0.5] },
+            paper_bgcolor: '#1E1E1E',
+            plot_bgcolor: '#1E1E1E',
+            font: { color: '#FFFFFF' }
+        });
+        Plotly.newPlot('combined_signal_plot', [combinedSignalData], {
+            xaxis: { title: 'Campioni' },
+            yaxis: { title: 'Ampiezza', range: [-0.5, 0.5] },
+            paper_bgcolor: '#1E1E1E',
+            plot_bgcolor: '#1E1E1E',
+            font: { color: '#FFFFFF' }
+        });
+
+        socket.on('update', function (data) {
+            var finalSignal = data.final_signal;
+            var errorSignal = data.error_signal;
+            var combinedSignal = data.combined_signal;
+            var noiseReductionDb = data.riduzione_rumore_db;
+
+            finalSignal.forEach((value) => {
+                finalSignalData.x.push(xValue);
+                finalSignalData.y.push(value);
+                xValue++;
+            });
+
+            errorSignal.forEach((value) => {
+                errorSignalData.x.push(xValue);
+                errorSignalData.y.push(value);
+                xValue++;
+            });
+
+            combinedSignal.forEach((value) => {
+                combinedSignalData.x.push(xValue);
+                combinedSignalData.y.push(value);
+                xValue++;
+            });
+
+            Plotly.update('final_signal_plot', { x: [finalSignalData.x], y: [finalSignalData.y] });
+            Plotly.update('error_signal_plot', { x: [errorSignalData.x], y: [errorSignalData.y] });
+            Plotly.update('combined_signal_plot', { x: [combinedSignalData.x], y: [combinedSignalData.y] });
+
+            document.getElementById('noise_reduction_db').innerText = 'Riduzione del Rumore: ' + noiseReductionDb.toFixed(2) + ' dB';
+        });
+
+        function startProcessing() {
+            if (!isProcessing) {
+                isProcessing = true;
+                document.getElementById('start-button').style.display = 'none';
+                document.getElementById('stop-button').style.display = 'block';
+                document.getElementById('graphs').style.display = 'flex';
+                document.getElementById('graphs-right').style.display = 'flex';
+                document.getElementById('noise-reduction').style.display = 'block';
+
+                var data = {
+                    file_path: 'semaforo.wav',
+                    chunk_size: 512,
+                    num_mics: 8,
+                    R: 0.15,
+                    initial_source_distance: 3.0,
+                    oscillation_amplitude: 2.5,
+                    initial_source_angle: 45,
+                    speed_of_sound: 343,
+                    angles_degrees: Array.from({ length: 8 }, (_, i) => i * 45),
+                    filter_length: 16,
+                    step_size: 0.00000001,
+                    fs: 44100
+                };
+                socket.emit('start_processing', data);
+            }
+        }
+
+        function stopProcessing() {
+            if (isProcessing) {
+                isProcessing = false;
+                socket.emit('stop_processing');
+                document.getElementById('start-button').style.display = 'block';
+                document.getElementById('stop-button').style.display = 'none';
+                document.getElementById('graphs').style.display = 'none';
+                document.getElementById('graphs-right').style.display = 'none';
+                document.getElementById('noise-reduction').style.display = 'none';
+            }
+        }
+    </script>
+</body>
+</html>

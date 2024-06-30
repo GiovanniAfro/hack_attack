@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./BE
+      dockerfile: Dockerfile
+    volumes:
+      - ./BE:/var/www/html
+      - ./BE/database:/var/www/html/database
+    ports:
+      - "8000:80"
+    depends_on:
+      - flask
+
+  frontend:
+    build:
+      context: ./FE
+      dockerfile: Dockerfile
+    volumes:
+      - ./FE:/app
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+
+  flask:
+    build:
+      context: ./BE-api
+      dockerfile: Dockerfile
+    volumes:
+      - ./BE-api:/app
+    ports:
+      - "5000:5000"
